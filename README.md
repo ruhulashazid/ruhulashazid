@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h3 align="center">A passionate Software Engineer and Data Science Enthusiast from Bangladesh (https://emojiguide.com/flags/flag-bangladesh/) </h3>
+<h3 align="center">A passionate Software Engineer and Data Science Enthusiast from Bangladesh 🇧🇩 </h3>
 
 * [My website: rashazid](https://--.com/)
 * [GitHub as @ruhulashazid (you are here)](https://github.com/ruhulashazid)
