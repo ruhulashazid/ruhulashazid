@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * [LinkedIn](https://www.linkedin.com/in/ruhulashazid/)
 * [Facebook](https://www.facebook.com/ruhulashazid/)
 
-- 💬 Ask me about **Python,**
+- 💬 Ask me about **Python,Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
