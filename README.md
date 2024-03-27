@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+### A passionate Software Engineer and Data Science Enthusiast from Bangladesh
+<h3 align="left">A passionate Software Engineer and Data Science Enthusiast from Bangladesh</h3>
 
-<h3 align="left">A passionate Software Engineer and Data Science Enthusiast from Bangladesh 🇧🇩 </h3>
-
-You can find me on:
-* [My website: rashazid](https://--.com/)
+<h3 alain="left">You can find me on:</h3>
+* [My website: rashazid](https://404---.com/)
 * [GitHub as @ruhulashazid (you are here)](https://github.com/ruhulashazid)
 * [LinkedIn](https://www.linkedin.com/in/ruhulashazid/)
 * [Facebook](https://www.facebook.com/ruhulashazid/)
