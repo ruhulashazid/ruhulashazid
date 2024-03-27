@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="left">A passionate Software Engineer and Data Science Enthusiast from Bangladesh</h3>
 
 You can find me on:
-* [My website: rashazid](https://404---.com/)
+* [My website: shazid.me](https://404---.com/)
 * [GitHub as @ruhulashazid (you are here)](https://github.com/ruhulashazid)
 * [LinkedIn](https://www.linkedin.com/in/ruhulashazid/)
 * [Facebook](https://www.facebook.com/ruhulashazid/)
