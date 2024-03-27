@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h6 align="left">A passionate Software Engineer and Data Science Enthusiast from Bangladesh 🇧🇩 </h6>
+<h3 align="left">A passionate Software Engineer and Data Science Enthusiast from Bangladesh 🇧🇩 </h3>
 
 You can find me on:
 * [My website: rashazid](https://--.com/)
@@ -25,7 +25,7 @@ You can find me on:
 * [Facebook](https://www.facebook.com/ruhulashazid/)
 
 - 💬 Ask me about **Python,Django**
-- 📫 How to reach me **ruhulaminshazid.com**
+- 📫 How to reach me **ruhulaminshazid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
