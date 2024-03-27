@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 
 -->
 
-<h3 align="center">A passionate Software Engineer and Data Science Enthusiast from Bangladesh 🇧🇩 </h3>
+<h6 align="left">A passionate Software Engineer and Data Science Enthusiast from Bangladesh 🇧🇩 </h6>
 
+You can find me on:
 * [My website: rashazid](https://--.com/)
 * [GitHub as @ruhulashazid (you are here)](https://github.com/ruhulashazid)
 * [LinkedIn](https://www.linkedin.com/in/ruhulashazid/)
 * [Facebook](https://www.facebook.com/ruhulashazid/)
 
 - 💬 Ask me about **Python,Django**
+- 📫 How to reach me **ruhulaminshazid.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
