@@ -1,7 +1,6 @@
 ## Hey! I'm [@ruhulashazid](https://www.linkedin.com/in/ruhulashazid/) (Md. Ruhul Amin Shazid) 👋
 <!--
 **ruhulashazid/ruhulashazid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I enjoy learning and teaching from various sources. I'm highly interested in group work and thrive in leadership roles within a team. I'm always eager to explore new technologies and engage in research whenever I can.
 ### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,6 +14,8 @@ I enjoy learning and teaching from various sources. I'm highly interested in gro
 
 -->
 <h3 align="left">A passionate Software Engineer, Researcher, and Data Science Enthusiast from Bangladesh.</h3>
+
+I enjoy learning and teaching from various sources. I'm highly interested in group work and thrive in leadership roles within a team. I'm always eager to explore new technologies and engage in research whenever I can.
 
 <img align="right" alt="Coding" width="390" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
