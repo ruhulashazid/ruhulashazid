@@ -38,7 +38,10 @@ You can find me on:
 <a href="https://www.hackerrank.com/profile/ruhulaminshazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/ruhulaminshazid" height="30" width="40" /></a>
 </p>
 
+
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" height="100" alt="Coding">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" style="transform: scale(0.5);" alt="Coding">
+
 
 <h3 align="left">Languages and Tools:</h3>
 
