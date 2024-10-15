@@ -1,7 +1,12 @@
 ## Hey! I'm [@ruhulashazid](https://www.linkedin.com/in/ruhulashazid/) Md. Ruhul Amin Shazid 👋
 
 A passionate Software Engineer, Researcher, and Data Science Enthusiast from Bangladesh. I enjoy learning and teaching from various sources. I'm highly interested in group work and thrive in leadership roles within a team. I'm always eager to explore new technologies and research whenever possible.
-<!--
+
+### You can find me on:
+* [My website: shazid.me](https://404---.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhulashazid/)
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhulaminshazid@gmail.com)
+
 **ruhulashazid/ruhulashazid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Here are some ideas to get you started:
 
@@ -15,13 +20,6 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 - ⚡ Fun fact: ...
 
 <img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
-
-
-### You can find me on:
-* [My website: shazid.me](https://404---.com/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhulashazid/)
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhulaminshazid@gmail.com)
-
 
 - 💬 Ask me about **Python,Django**
 - 📫 How to reach me **ruhulaminshazid@gmail.com**
