@@ -12,9 +12,7 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 - 💬 Ask me about anything programming. I'm happy to help!
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me **ruhulaminshazid@gmail.com**
-- 
-![Profile Views](https://komarev.com/ghpvc/?username=ruhulashazid)
-
+ 
 ### Follow me on:
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruhulaminshazid)
@@ -53,13 +51,14 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
+<!-- 
+![Profile Views](https://komarev.com/ghpvc/?username=ruhulashazid)
+-->
 ## Statistics
 
-[![Oluwabusayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TropicolX&count_private=true&show_icons=true&theme=radical)](https://github.com/TropicolX/github-readme-stats)
+[![Ruhul Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulashazid&count_private=true&show_icons=true&theme=radical)](https://github.com/ruhulashazid/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TropicolX&layout=compact&theme=radical)](https://github.com/TropicolX/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulashazid&layout=compact&theme=radical)](https://github.com/ruhulashazid/github-readme-stats)
 
 **Every person possesses weaknesses, yet these weaknesses may not always be apparent to others 😃**
 
