@@ -56,9 +56,19 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 -->
 ## Statistics
 
-[![Ruhul Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulashazid&count_private=true&show_icons=true&theme=radical)](https://github.com/ruhulashazid/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+        <a href="https://github.com/ruhulashazid/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=ruhulashazid&count_private=true&show_icons=true&theme=radical" alt="Ruhul Amin's GitHub stats" />
+        </a>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <a href="https://github.com/ruhulashazid/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulashazid&layout=compact&theme=radical" alt="Top Langs" />
+        </a>
+    </div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulashazid&layout=compact&theme=radical)](https://github.com/ruhulashazid/github-readme-stats)
 
 **Every person possesses weaknesses, yet these weaknesses may not always be apparent to others 😃**
 
