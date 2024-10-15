@@ -3,13 +3,14 @@
 A passionate Software Engineer, Researcher, and Data Science Enthusiast from Bangladesh. I enjoy learning and teaching from various sources. I'm highly interested in group work and thrive in leadership roles within a team. I'm always eager to explore new technologies and research whenever possible.
 
 ### You can find me on:
-* [My website: shazid.me](https://404---.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhulashazid/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhulaminshazid@gmail.com)
 
-**ruhulashazid/ruhulashazid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Here are some ideas to get you started:
+- 🌱 I’m currently learning Express.js
+- 💬 Ask me about anything programming. I'm happy to help!
+- 😄 Pronouns: He/Him
 
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,6 +19,7 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 <img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
@@ -61,9 +63,16 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 
 ![](https://komarev.com/ghpvc/?username=TropicolX)
 
+## Statistics
+
+[![Oluwabusayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TropicolX&count_private=true&show_icons=true&theme=radical)](https://github.com/TropicolX/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TropicolX&layout=compact&theme=radical)](https://github.com/TropicolX/github-readme-stats)
+
 -- Every person possesses weaknesses, yet these weaknesses may not always be apparent to others 😃
 
 
+<!-- 
 -----------------------------------------------------------------------------------------------------------
 # Hi, I'm Oluwabusayo!
 
@@ -145,9 +154,4 @@ A Software Engineer and Technical Writer. I bring both technical expertise and e
       </tr>
     </tbody>
 </table>
-
-## Statistics
-
-[![Oluwabusayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TropicolX&count_private=true&show_icons=true&theme=radical)](https://github.com/TropicolX/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TropicolX&layout=compact&theme=radical)](https://github.com/TropicolX/github-readme-stats)
+-->
