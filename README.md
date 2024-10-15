@@ -6,6 +6,10 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhulashazid/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhulaminshazid@gmail.com)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruhulaminshazid)
+[![Kaggle](https://img.shields.io/badge/kaggle-%23006AFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ruhulaminshazid)
+[![HackerRank](https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ruhulaminshazid)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ruhulashazid)
+
 
 
 <img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
