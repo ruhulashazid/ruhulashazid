@@ -6,24 +6,11 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhulashazid/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhulaminshazid@gmail.com)
 
-- 🌱 I’m currently learning Express.js
-- 💬 Ask me about anything programming. I'm happy to help!
-- 😄 Pronouns: He/Him
-
-<!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
-- 💬 Ask me about **Python,Django**
+- 🌱 I’m currently learning Express.js
+- 💬 Ask me about anything programming. I'm happy to help!
+- 😄 Pronouns: **He/Him**
 - 📫 How to reach me **ruhulaminshazid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -69,26 +56,23 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TropicolX&layout=compact&theme=radical)](https://github.com/TropicolX/github-readme-stats)
 
--- Every person possesses weaknesses, yet these weaknesses may not always be apparent to others 😃
+**Every person possesses weaknesses, yet these weaknesses may not always be apparent to others 😃**
 
+
+
+-----------------------------------------------------------------------------------------------------------
+<!-- 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!-- 
------------------------------------------------------------------------------------------------------------
-# Hi, I'm Oluwabusayo!
-
-A Software Engineer and Technical Writer. I bring both technical expertise and excellent content creation capabilities. My proven track record emphasizes my commitment to delivering comprehensive documentation, user-centric platforms, and state-of-the-art software solutions.
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwabusayo-jacobs-116522200/)
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:busayojacobs17@gmail.com)
-
-- 🌱 I’m currently learning Blockchain & Web3
-- 👯 I’m looking to collaborate on impactful documentation projects
-- 💬 Ask me about anything programming. I'm happy to help!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a big fan of Astronomy
-
-
-
 ## Open Source Contributions
 
 <table>
