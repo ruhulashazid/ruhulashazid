@@ -2,31 +2,23 @@
 
 A passionate Software Engineer, Researcher, and Data Science Enthusiast from Bangladesh. I enjoy learning and teaching from various sources. I'm highly interested in group work and thrive in leadership roles within a team. I'm always eager to explore new technologies and research whenever possible.
 
+<img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+
 ### You can find me on:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhulashazid/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhulaminshazid@gmail.com)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruhulaminshazid)
-[![Kaggle](https://img.shields.io/badge/kaggle-%23006AFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ruhulaminshazid)
-[![HackerRank](https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ruhulaminshazid)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ruhulashazid)
-
-
-
-<img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 - 🌱 I’m currently learning Express.js
 - 💬 Ask me about anything programming. I'm happy to help!
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me **ruhulaminshazid@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ruhulashazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruhulashazid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ruhulashazid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruhulashazid/" height="30" width="40" /></a>
-<a href="https://kaggle.com/ruhulaminshazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ruhulaminshazid" height="30" width="40" /></a>
-<a href="https://instagram.com/ruhulashazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruhulashazid" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ruhulaminshazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/ruhulaminshazid" height="30" width="40" /></a>
-</p>
+### Follow me on social media:
+
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruhulaminshazid)
+[![Kaggle](https://img.shields.io/badge/kaggle-%23006AFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ruhulaminshazid)
+[![HackerRank](https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ruhulaminshazid)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ruhulashazid)
 
 ## Languages, Frameworks & Libraries
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" /> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
