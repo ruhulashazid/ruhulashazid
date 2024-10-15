@@ -53,16 +53,11 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 
 <!-- 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruhulashazid)
--->
+
 ## Statistics
-
 [![Ruhul Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulashazid&count_private=true&show_icons=true&theme=radical)](https://github.com/ruhulashazid/github-readme-stats)
-<div style="text-align: center;">
-    <a href="https://github.com/ruhulashazid/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulashazid&layout=compact&theme=radical" alt="Top Langs" />
-    </a>
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulashazid&layout=compact&theme=radical)](https://github.com/ruhulashazid/github-readme-stats)
+-->
 **Every person possesses weaknesses, yet these weaknesses may not always be apparent to others 😃**
 
 
