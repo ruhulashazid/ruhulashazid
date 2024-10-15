@@ -12,6 +12,8 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 - 💬 Ask me about anything programming. I'm happy to help!
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me **ruhulaminshazid@gmail.com**
+- 
+![Profile Views](https://komarev.com/ghpvc/?username=ruhulashazid)
 
 ### Follow me on:
 
@@ -52,7 +54,6 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=TropicolX)
 
 ## Statistics
 
