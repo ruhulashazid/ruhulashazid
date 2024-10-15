@@ -24,8 +24,7 @@ A passionate Software Engineer, Researcher, and Data Science Enthusiast from Ban
 
 ## Languages, Frameworks & Libraries
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
