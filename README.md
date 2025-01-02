@@ -1,7 +1,6 @@
 ## Hey! I'm [@ruhulashazid](https://www.linkedin.com/in/ruhulashazid/) Md. Ruhul Amin Shazid 👋
 
-A passionate Software Engineer, Researcher, and Data Science Enthusiast from Bangladesh. I enjoy learning and teaching from various sources. I'm highly interested in group work and thrive in leadership roles within a team. I'm always eager to explore new technologies and research whenever possible.
-
+A passionate Data Engineer, Software Engineer, Researcher, and Data Science Enthusiast from Bangladesh.
 <img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 ### You can find me on:
