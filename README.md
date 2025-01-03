@@ -7,7 +7,7 @@ A passionate Data Engineer, Software Engineer, Researcher, and Data Science Enth
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhulashazid/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhulaminshazid@gmail.com)
 
-- 🌱 I’m currently learning Express.js
+- 🌱 I’m currently learning FastAPI
 - 💬 Ask me about anything programming. I'm happy to help!
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me **ruhulaminshazid@gmail.com**
