@@ -41,8 +41,5 @@ A passionate  Software Engineer, Data Engineer, Researcher, and Data Science Ent
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulashazid&layout=compact&theme=radical)](https://github.com/ruhulashazid/github-readme-stats)
-
 -->
 **Every person possesses weaknesses, yet these weaknesses may not always be apparent to others 😃**
